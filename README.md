@@ -10,9 +10,9 @@
     - **Order Frequency** – Number of orders placed over time.
 *These metrics provided a clear snapshot of business health and profitability.*
 ### 2. 📅 Trend Visualization
-**Used Power BI to create dynamic dashboards displaying:** <br>
-    - **Daily and Monthly Sales Trends – Identified peak sales periods and seasonal variations.** <br>
-    - **Sales Heatmaps – Highlighted high-demand time slots.** <br>
+**Used Power BI to create dynamic dashboards displaying:**
+- **Daily and Monthly Sales Trends – Identified peak sales periods and seasonal variations.**
+- **Sales Heatmaps – Highlighted high-demand time slots.** <br>
 *These insights helped optimize inventory management and staffing decisions.*
 ### 3. 🍕 Sales Analysis by Category and Size
 **Segmented sales based on:**
