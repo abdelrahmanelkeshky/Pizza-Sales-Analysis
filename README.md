@@ -36,9 +36,9 @@
 - **Underperforming pizzas offer opportunities for menu refinement to enhance profitability.**
 - **Insights can guide new product launches or price adjustments.**
 ## 🛠️ Technologies Used
-**1. SQL: Data extraction, transformation, and querying.**
-**2. Power BI: Interactive dashboards and visualizations.**
-**3. Data Cleaning & Aggregation: Ensuring high data quality for accurate analysis.**
+**1. SQL: Data extraction, transformation, and querying.** <br>
+**2. Power BI: Interactive dashboards and visualizations.** <br>
+**3. Data Cleaning & Aggregation: Ensuring high data quality for accurate analysis.** <br>
 ## 🎯 How to Use
 - Load the pizza sales dataset into SQL or Power BI. <br>
 - Run SQL queries for data cleaning and transformation. <br>
