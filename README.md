@@ -4,19 +4,19 @@
 
 ## 🗂️ Key Components of the Analysis
 ### 1. 📊 Key Performance Indicators (KPIs)
-*These metrics provided a clear snapshot of business health and profitability.*
+*These metrics provided a clear snapshot of business health and profitability.* <br>
 **Developed essential KPIs to measure sales performance:**
 - **Total Sales Revenue** – Overall earnings from pizza sales.
 - **Average Order Value (AOV)** – Insights into customer spending behavior.
 - **Order Frequency** – Number of orders placed over time.
 
 ### 2. 📅 Trend Visualization
-*These insights helped optimize inventory management and staffing decisions.*
+*These insights helped optimize inventory management and staffing decisions.* <br>
 **Used Power BI to create dynamic dashboards displaying:**
 - **Daily and Monthly Sales Trends – Identified peak sales periods and seasonal variations.**
 - **Sales Heatmaps – Highlighted high-demand time slots.** <br>
 ### 3. 🍕 Sales Analysis by Category and Size
-*This analysis revealed customer preferences and highlighted the highest revenue-generating pizzas.*
+*This analysis revealed customer preferences and highlighted the highest revenue-generating pizzas.* <br>
 **Segmented sales based on:**
 - **Pizza Category (e.g., Vegetarian, Meat Lovers).**
 - **Pizza Size (Small, Medium, Large).**
