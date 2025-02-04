@@ -4,24 +4,25 @@
 
 ## 🗂️ Key Components of the Analysis
 ### 1. 📊 Key Performance Indicators (KPIs)
-**Developed essential KPIs to measure sales performance:**
-    - **Total Sales Revenue** – Overall earnings from pizza sales.
-    - **Average Order Value (AOV)** – Insights into customer spending behavior.
-    - **Order Frequency** – Number of orders placed over time.
 *These metrics provided a clear snapshot of business health and profitability.*
+**Developed essential KPIs to measure sales performance:**
+- **Total Sales Revenue** – Overall earnings from pizza sales.
+- **Average Order Value (AOV)** – Insights into customer spending behavior.
+- **Order Frequency** – Number of orders placed over time.
+
 ### 2. 📅 Trend Visualization
+*These insights helped optimize inventory management and staffing decisions.*
 **Used Power BI to create dynamic dashboards displaying:**
 - **Daily and Monthly Sales Trends – Identified peak sales periods and seasonal variations.**
 - **Sales Heatmaps – Highlighted high-demand time slots.** <br>
-*These insights helped optimize inventory management and staffing decisions.*
 ### 3. 🍕 Sales Analysis by Category and Size
-**Segmented sales based on:**
-    - **Pizza Category (e.g., Vegetarian, Meat Lovers).**
-    - **Pizza Size (Small, Medium, Large).**
 *This analysis revealed customer preferences and highlighted the highest revenue-generating pizzas.*
+**Segmented sales based on:**
+- **Pizza Category (e.g., Vegetarian, Meat Lovers).**
+- **Pizza Size (Small, Medium, Large).**
 ### 4. 🏆 Best & Worst-Selling Pizzas
-  - **Top-Selling Pizzas: Identified popular flavors and combinations.**
-  - **Low-Performing Pizzas: Pinpointed underperforming items, providing insights for potential menu adjustments and promotional strategies.**
+- **Top-Selling Pizzas: Identified popular flavors and combinations.**
+- **Low-Performing Pizzas: Pinpointed underperforming items, providing insights for potential menu adjustments and promotional strategies.**
 ## 🔍 Findings & Insights
 ### 1. 📈 Sales Trends
 
