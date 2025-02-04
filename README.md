@@ -40,12 +40,11 @@
 **2. Power BI: Interactive dashboards and visualizations.**
 **3. Data Cleaning & Aggregation: Ensuring high data quality for accurate analysis.**
 ## 🎯 How to Use
-- Load the pizza sales dataset into SQL or Power BI.
-- Run SQL queries for data cleaning and transformation.
-- Use Power BI dashboards to explore key sales trends and customer insights.
+- Load the pizza sales dataset into SQL or Power BI. <br>
+- Run SQL queries for data cleaning and transformation. <br>
+- Use Power BI dashboards to explore key sales trends and customer insights. <br>
 - Apply findings to optimize marketing, inventory, and pricing strategies.
 ## 🔮 Future Enhancements
 - Predictive Analysis: Forecast future sales using ML models.
 - Customer Segmentation: Identify target demographics for personalized marketing.
-- Real-time Reporting: Automate dashboards for live sales tracking.
-***✍️ Author: Abdelrahman Elkeshky***
+- Real-time Reporting: Automate dashboards for live sales tracking. <br> ***✍️ Author: Abdelrahman Elkeshky***
