@@ -8,19 +8,19 @@ This project analyzes pizza sales data for the year 2015 using SQL and Power BI.
 
 ## Project Objectives
 
-- Identify peak sales periods and busiest days/times.
-- Highlight best- and worst-performing pizzas by revenue, quantity, and order count.
-- Analyze customer preferences based on pizza category and size.
+- Identify peak sales periods and busiest days/times.  
+- Highlight best- and worst-performing pizzas by revenue, quantity, and order count.  
+- Analyze customer preferences based on pizza category and size.  
 - Develop a dashboard for interactive data exploration by business users.
 
 ---
 
 ## Key Metrics (KPIs)
 
-- **Total Revenue**: $817.86K
-- **Average Order Value (AOV)**: $38.31
-- **Total Orders**: 21,350
-- **Total Pizza Sold**: 49,574
+- **Total Revenue**: $817.86K  
+- **Average Order Value (AOV)**: $38.31  
+- **Total Orders**: 21,350  
+- **Total Pizza Sold**: 49,574  
 - **Average Pizzas per Order**: 2.32
 
 ---
@@ -38,8 +38,8 @@ This project analyzes pizza sales data for the year 2015 using SQL and Power BI.
 
 ## Category & Size Performance
 
-- **Classic Category** contributes the most to sales and order volume.
-- **Large Pizzas** account for the largest share of total sales.
+- **Classic Category** contributes the most to sales and order volume.  
+- **Large Pizzas** account for the largest share of total sales.  
 - Sales by category and size are visualized using pie charts and color-coded breakdowns.
 
 ---
@@ -51,42 +51,62 @@ This project analyzes pizza sales data for the year 2015 using SQL and Power BI.
 - Other top sellers include The Barbecue Chicken, The Hawaiian, and The Pepperoni.
 
 **Lowest Performing Pizzas**  
-- The Brie Carrie Pizza ranks lowest across all metrics.
+- The Brie Carrie Pizza ranks lowest across all metrics.  
 - Other low performers include The Spinach Supreme and The Mediterranean.
+
+---
+
+## Results
+
+- Sales peak on **Fridays** and during **weekend evenings**, indicating the highest customer demand occurs at these times.  
+- The **Classic Deluxe Pizza** dominates sales, contributing the largest revenue and quantity, making it a flagship product.  
+- Large pizzas outperform other sizes, suggesting customers prefer bigger portions.  
+- Some pizzas like the **Brie Carrie** have consistently low sales, indicating potential issues with customer appeal or pricing.  
+- July and January show unusually high sales volumes, possibly due to seasonal factors or promotions.
+
+---
+
+## Recommendations
+
+- **Focus marketing efforts and promotions on Fridays and weekend evenings** to maximize sales during peak times.  
+- **Feature and promote the Classic Deluxe Pizza and large-sized pizzas** prominently on menus and advertising.  
+- **Review and possibly reformulate or remove low-performing pizzas** like Brie Carrie to optimize the menu.  
+- **Investigate seasonal trends** in July and January to leverage promotional opportunities and inventory planning.  
+- **Consider loyalty programs or bundle offers** to increase average order value and encourage repeat purchases.
 
 ---
 
 ## Technologies Used
 
-- **SQL**: Data extraction, cleaning, and preparation for analysis.
-- **Power BI**: Interactive dashboards with dynamic filters, charts, and visuals.
+- **SQL**: Data extraction, cleaning, and preparation for analysis.  
+- **Power BI**: Interactive dashboards with dynamic filters, charts, and visuals.  
 - **Excel (optional)**: Used for pre-cleaning or quick transformations before loading into Power BI.
 
 ---
 
 ## How to Use
 
-1. Load the raw pizza sales dataset into a database or Power BI.
-2. Run SQL scripts (if applicable) to clean and transform data.
-3. Open the Power BI report (`pizza_sales_dashboard.pbix`) to explore insights.
+1. Load the raw pizza sales dataset into a database or Power BI.  
+2. Run SQL scripts (if applicable) to clean and transform data.  
+3. Open the Power BI report (`pizza_sales_dashboard.pbix`) to explore insights.  
 4. Filter by category or time range using slicers for dynamic analysis.
 
 ---
 
 ## Business Questions Answered
 
-- What days and months generate the highest sales?
-- Which pizzas are the most and least popular?
-- How do pizza sizes and categories affect revenue?
-- What’s the average order size and value?
+- What days and months generate the highest sales?  
+- Which pizzas are the most and least popular?  
+- How do pizza sizes and categories affect revenue?  
+- What’s the average order size and value?  
 - What insights can guide marketing or menu optimization?
 
 ---
 
 ## Future Enhancements
 
-- Integrate predictive models to forecast future sales.
-- Segment customers by behavior for targeted marketing.
+- Integrate predictive models to forecast future sales.  
+- Segment customers by behavior for targeted marketing.  
 - Automate dashboard updates using real-time data sources.
 
 ---
@@ -94,4 +114,4 @@ This project analyzes pizza sales data for the year 2015 using SQL and Power BI.
 ## Author
 
 **Abdelrahman Elkeshky**  
-*Data Analyst | SQL & Power BI Enthusiast*
+*Data Analyst*
